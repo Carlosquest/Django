@@ -3,3 +3,4 @@ from .models import Categoria
 
 # Register your models here.
 admin.site.register(Categoria)
+
